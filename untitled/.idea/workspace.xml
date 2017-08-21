@@ -1,0 +1,809 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8d074721-14c3-4542-ba5e-cf5beb09c031" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>$page=</find>
+      <find>$page</find>
+      <find>$result</find>
+      <find>toggleFollow</find>
+      <find>btn btn-primary</find>
+      <find>search tweets</find>
+      <find>p</find>
+      <find>post</find>
+      <find>post t</find>
+      <find>post tw</find>
+      <find>post twee</find>
+      <find>post tweet</find>
+      <find>data-userId</find>
+      <find>t</find>
+      <find>type=</find>
+      <find>public</find>
+      <find>ata-userId</find>
+      <find>'isFollowing</find>
+      <find>'isFollowing'</find>
+      <find>tweetContent</find>
+      <find>ho</find>
+      <find>home</find>
+      <find>g</find>
+      <find>glob</find>
+      <find>global</find>
+      <find>s</find>
+      <find>sessio</find>
+      <find>session</find>
+      <find>yourtweets</find>
+      <find>isFollowing</find>
+    </findStrings>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/195.php" root0="SKIP_INSPECTION" root1="SKIP_INSPECTION" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/twitter/style.css" />
+        <option value="$PROJECT_DIR$/twitter/views/styles.css" />
+        <option value="$PROJECT_DIR$/195.php" />
+        <option value="$PROJECT_DIR$/199.php" />
+        <option value="$PROJECT_DIR$/twitter/views/footer.php" />
+        <option value="$PROJECT_DIR$/twitter/views/home.php" />
+        <option value="$PROJECT_DIR$/twitter/views/publicprofiles.php" />
+        <option value="$PROJECT_DIR$/twitter/views/search.php" />
+        <option value="$PROJECT_DIR$/twitter/views/timeline.php" />
+        <option value="$PROJECT_DIR$/twitter/views/yourtweets.php" />
+        <option value="$PROJECT_DIR$/twitter/actions.php" />
+        <option value="$PROJECT_DIR$/twitter/styles.css" />
+        <option value="$PROJECT_DIR$/twitter/views/header.php" />
+        <option value="$PROJECT_DIR$/twitter/index.php" />
+        <option value="$PROJECT_DIR$/twitter/functions.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1296" />
+    <option name="height" value="1000" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PHP - The Complete Web Developer Course" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PHP - The Complete Web Developer Course" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="twitter" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PHP - The Complete Web Developer Course" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="twitter" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../bloodbank" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="CodeceptionConfigurationType" factoryName="Codeception">
+      <PhpTestRunnerSettings />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
+      <node-interpreter value="project" />
+      <working-dir value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpSpecConfigurationType" factoryName="PHPSpec">
+      <PhpTestRunnerSettings />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8d074721-14c3-4542-ba5e-cf5beb09c031" name="Default" comment="" />
+      <created>1498912213149</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1498912213149</updated>
+      <workItem from="1498912220822" duration="140000" />
+      <workItem from="1498939562762" duration="5456000" />
+      <workItem from="1498988516360" duration="20587000" />
+      <workItem from="1499101323881" duration="9256000" />
+      <workItem from="1499111748232" duration="288000" />
+      <workItem from="1499190975222" duration="5397000" />
+      <workItem from="1499362964245" duration="13177000" />
+      <workItem from="1499439975934" duration="22056000" />
+      <workItem from="1499500720331" duration="20677000" />
+      <workItem from="1499524340752" duration="158000" />
+      <workItem from="1499524541166" duration="82000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="97274000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1296" height="1000" extended-state="0" />
+    <layout>
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.07617504" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32946634" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/twitter/actions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1499522760213" expanded="true" signature="530:631" ph="SELECT * FRO... users" />
+            <marker date="1499522760213" expanded="true" signature="810:982" ph="INSERT INTO users... " />
+            <marker date="1499522760213" expanded="true" signature="1120:1247" ph="UPDATE users... " />
+            <marker date="1499522760213" expanded="true" signature="1477:1578" ph="SELECT * FRO... users" />
+            <marker date="1499522760213" expanded="true" signature="2078:2263" ph="SELECT * FRO... isFollowing" />
+            <marker date="1499522760213" expanded="true" signature="2424:2519" ph="DELETE FROM " />
+            <marker date="1499522760213" expanded="true" signature="2586:2760" ph="INSERT INTO isFollowing... " />
+            <marker date="1499522760213" expanded="true" signature="3048:3240" ph="INSERT INTO tweets... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/twitter/functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1533">
+          <caret line="73" column="0" lean-forward="true" selection-start-line="73" selection-start-column="0" selection-end-line="73" selection-end-column="0" />
+          <folding>
+            <marker date="1499523380648" expanded="true" signature="1013:1056" ph="SELECT * FRO... isFollowing" />
+            <marker date="1499523380648" expanded="true" signature="1858:1944" ph="SELECT * FRO... users" />
+            <marker date="1499523380648" expanded="true" signature="2267:2342" ph="SELECT * FRO... tweets" />
+            <marker date="1499523380648" expanded="true" signature="2575:2670" ph="SELECT * FRO... users" />
+            <marker date="1499523380648" expanded="true" signature="3236:3419" ph="SELECT * FRO... isFollowing" />
+            <marker date="1499523380648" expanded="true" signature="3807:4062" ph="..." />
+            <marker date="1499523380648" expanded="true" signature="3834:3983" ph="..." />
+            <marker date="1499523380648" expanded="true" signature="4342:4525" ph="..." />
+            <marker date="1499523380648" expanded="true" signature="4369:4443" ph="..." />
+            <marker date="1499523380648" expanded="true" signature="4600:4628" ph="SELECT * FRO... users" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/twitter/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="4" column="28" lean-forward="false" selection-start-line="4" selection-start-column="28" selection-end-line="4" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/twitter/views/home.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="19" column="14" lean-forward="false" selection-start-line="19" selection-start-column="14" selection-end-line="19" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/twitter/views/footer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1008">
+          <caret line="48" column="8" lean-forward="false" selection-start-line="48" selection-start-column="8" selection-end-line="48" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/twitter/functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="17" column="1" lean-forward="true" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+          <folding>
+            <marker date="1499523380648" expanded="true" signature="1013:1056" ph="SELECT * FRO... isFollowing" />
+            <marker date="1499523380648" expanded="true" signature="1858:1944" ph="SELECT * FRO... users" />
+            <marker date="1499523380648" expanded="true" signature="2267:2342" ph="SELECT * FRO... tweets" />
+            <marker date="1499523380648" expanded="true" signature="2575:2670" ph="SELECT * FRO... users" />
+            <marker date="1499523380648" expanded="true" signature="3236:3419" ph="SELECT * FRO... isFollowing" />
+            <marker date="1499523380648" expanded="true" signature="3807:4062" ph="..." />
+            <marker date="1499523380648" expanded="true" signature="3834:3983" ph="..." />
+            <marker date="1499523380648" expanded="true" signature="4342:4525" ph="..." />
+            <marker date="1499523380648" expanded="true" signature="4369:4443" ph="..." />
+            <marker date="1499523380648" expanded="true" signature="4600:4628" ph="SELECT * FRO... users" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/twitter/actions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="966">
+          <caret line="46" column="61" lean-forward="false" selection-start-line="46" selection-start-column="61" selection-end-line="46" selection-end-column="61" />
+          <folding>
+            <marker date="1499522760213" expanded="true" signature="530:631" ph="SELECT * FRO... users" />
+            <marker date="1499522760213" expanded="true" signature="810:982" ph="INSERT INTO users... " />
+            <marker date="1499522760213" expanded="true" signature="1120:1247" ph="UPDATE users... " />
+            <marker date="1499522760213" expanded="true" signature="1477:1578" ph="SELECT * FRO... users" />
+            <marker date="1499522760213" expanded="true" signature="2078:2263" ph="SELECT * FRO... isFollowing" />
+            <marker date="1499522760213" expanded="true" signature="2424:2519" ph="DELETE FROM " />
+            <marker date="1499522760213" expanded="true" signature="2586:2760" ph="INSERT INTO isFollowing... " />
+            <marker date="1499522760213" expanded="true" signature="3048:3240" ph="INSERT INTO tweets... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/twitter/views/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="651">
+          <caret line="31" column="41" lean-forward="false" selection-start-line="31" selection-start-column="41" selection-end-line="31" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/twitter/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="588">
+          <caret line="28" column="32" lean-forward="false" selection-start-line="28" selection-start-column="32" selection-end-line="28" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/twitter/views/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="588">
+          <caret line="28" column="41" lean-forward="true" selection-start-line="28" selection-start-column="41" selection-end-line="28" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/twitter/views/home.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="16" column="19" lean-forward="false" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/twitter/actions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1596">
+          <caret line="76" column="17" lean-forward="true" selection-start-line="76" selection-start-column="17" selection-end-line="76" selection-end-column="17" />
+          <folding>
+            <marker date="1499522760213" expanded="true" signature="530:631" ph="SELECT * FRO... users" />
+            <marker date="1499522760213" expanded="true" signature="810:982" ph="INSERT INTO users... " />
+            <marker date="1499522760213" expanded="true" signature="1120:1247" ph="UPDATE users... " />
+            <marker date="1499522760213" expanded="true" signature="1477:1578" ph="SELECT * FRO... users" />
+            <marker date="1499522760213" expanded="true" signature="2078:2263" ph="SELECT * FRO... isFollowing" />
+            <marker date="1499522760213" expanded="true" signature="2424:2519" ph="DELETE FROM " />
+            <marker date="1499522760213" expanded="true" signature="2586:2760" ph="INSERT INTO isFollowing... " />
+            <marker date="1499522760213" expanded="true" signature="3048:3240" ph="INSERT INTO tweets... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/twitter/views/footer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1743">
+          <caret line="83" column="57" lean-forward="false" selection-start-line="83" selection-start-column="57" selection-end-line="83" selection-end-column="57" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/twitter/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="20" column="35" lean-forward="false" selection-start-line="20" selection-start-column="35" selection-end-line="20" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/twitter/views/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="16" column="41" lean-forward="false" selection-start-line="16" selection-start-column="41" selection-end-line="16" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/twitter/views/home.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="7" column="21" lean-forward="false" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/twitter/actions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="924">
+          <caret line="44" column="0" lean-forward="false" selection-start-line="44" selection-start-column="0" selection-end-line="44" selection-end-column="0" />
+          <folding>
+            <marker date="1499522760213" expanded="true" signature="530:631" ph="SELECT * FRO... users" />
+            <marker date="1499522760213" expanded="true" signature="810:982" ph="INSERT INTO users... " />
+            <marker date="1499522760213" expanded="true" signature="1120:1247" ph="UPDATE users... " />
+            <marker date="1499522760213" expanded="true" signature="1477:1578" ph="SELECT * FRO... users" />
+            <marker date="1499522760213" expanded="true" signature="2078:2263" ph="SELECT * FRO... isFollowing" />
+            <marker date="1499522760213" expanded="true" signature="2424:2519" ph="DELETE FROM " />
+            <marker date="1499522760213" expanded="true" signature="2586:2760" ph="INSERT INTO isFollowing... " />
+            <marker date="1499522760213" expanded="true" signature="3048:3240" ph="INSERT INTO tweets... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/twitter/functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3297">
+          <caret line="157" column="30" lean-forward="false" selection-start-line="157" selection-start-column="30" selection-end-line="157" selection-end-column="30" />
+          <folding>
+            <marker date="1499523380648" expanded="true" signature="1013:1056" ph="SELECT * FRO... isFollowing" />
+            <marker date="1499523380648" expanded="true" signature="1858:1944" ph="SELECT * FRO... users" />
+            <marker date="1499523380648" expanded="true" signature="2267:2342" ph="SELECT * FRO... tweets" />
+            <marker date="1499523380648" expanded="true" signature="2575:2670" ph="SELECT * FRO... users" />
+            <marker date="1499523380648" expanded="true" signature="3236:3419" ph="SELECT * FRO... isFollowing" />
+            <marker date="1499523380648" expanded="true" signature="3807:4062" ph="..." />
+            <marker date="1499523380648" expanded="true" signature="3834:3983" ph="..." />
+            <marker date="1499523380648" expanded="true" signature="4342:4525" ph="..." />
+            <marker date="1499523380648" expanded="true" signature="4369:4443" ph="..." />
+            <marker date="1499523380648" expanded="true" signature="4600:4628" ph="SELECT * FRO... users" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/twitter/views/footer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1974">
+          <caret line="94" column="45" lean-forward="true" selection-start-line="94" selection-start-column="45" selection-end-line="94" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/twitter/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="20" column="35" lean-forward="false" selection-start-line="20" selection-start-column="35" selection-end-line="20" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/twitter/views/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="16" column="41" lean-forward="false" selection-start-line="16" selection-start-column="41" selection-end-line="16" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/twitter/views/home.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="7" column="21" lean-forward="false" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/twitter/views/footer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2541">
+          <caret line="121" column="36" lean-forward="false" selection-start-line="121" selection-start-column="30" selection-end-line="121" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/twitter/functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3297">
+          <caret line="157" column="30" lean-forward="false" selection-start-line="157" selection-start-column="30" selection-end-line="157" selection-end-column="30" />
+          <folding>
+            <marker date="1499523380648" expanded="true" signature="1013:1056" ph="SELECT * FRO... isFollowing" />
+            <marker date="1499523380648" expanded="true" signature="1858:1944" ph="SELECT * FRO... users" />
+            <marker date="1499523380648" expanded="true" signature="2267:2342" ph="SELECT * FRO... tweets" />
+            <marker date="1499523380648" expanded="true" signature="2575:2670" ph="SELECT * FRO... users" />
+            <marker date="1499523380648" expanded="true" signature="3236:3419" ph="SELECT * FRO... isFollowing" />
+            <marker date="1499523380648" expanded="true" signature="3807:4062" ph="..." />
+            <marker date="1499523380648" expanded="true" signature="3834:3983" ph="..." />
+            <marker date="1499523380648" expanded="true" signature="4342:4525" ph="..." />
+            <marker date="1499523380648" expanded="true" signature="4369:4443" ph="..." />
+            <marker date="1499523380648" expanded="true" signature="4600:4628" ph="SELECT * FRO... users" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/twitter/actions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="924">
+          <caret line="44" column="0" lean-forward="false" selection-start-line="44" selection-start-column="0" selection-end-line="44" selection-end-column="0" />
+          <folding>
+            <marker date="1499522760213" expanded="true" signature="530:631" ph="SELECT * FRO... users" />
+            <marker date="1499522760213" expanded="true" signature="810:982" ph="INSERT INTO users... " />
+            <marker date="1499522760213" expanded="true" signature="1120:1247" ph="UPDATE users... " />
+            <marker date="1499522760213" expanded="true" signature="1477:1578" ph="SELECT * FRO... users" />
+            <marker date="1499522760213" expanded="true" signature="2078:2263" ph="SELECT * FRO... isFollowing" />
+            <marker date="1499522760213" expanded="true" signature="2424:2519" ph="DELETE FROM " />
+            <marker date="1499522760213" expanded="true" signature="2586:2760" ph="INSERT INTO isFollowing... " />
+            <marker date="1499522760213" expanded="true" signature="3048:3240" ph="INSERT INTO tweets... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/twitter/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="14" column="31" lean-forward="false" selection-start-line="14" selection-start-column="31" selection-end-line="14" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/twitter/views/home.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="12" column="17" lean-forward="false" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/twitter/views/footer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="12" column="29" lean-forward="false" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/twitter/style.css" />
+    <entry file="file://$PROJECT_DIR$/twitter/functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="8" column="2" lean-forward="true" selection-start-line="8" selection-start-column="2" selection-end-line="8" selection-end-column="2" />
+          <folding>
+            <marker date="1499523380648" expanded="true" signature="1013:1056" ph="SELECT * FRO... isFollowing" />
+            <marker date="1499523380648" expanded="true" signature="1858:1944" ph="SELECT * FRO... users" />
+            <marker date="1499523380648" expanded="true" signature="2267:2342" ph="SELECT * FRO... tweets" />
+            <marker date="1499523380648" expanded="true" signature="2575:2670" ph="SELECT * FRO... users" />
+            <marker date="1499523380648" expanded="true" signature="3236:3419" ph="SELECT * FRO... isFollowing" />
+            <marker date="1499523380648" expanded="true" signature="3807:4062" ph="..." />
+            <marker date="1499523380648" expanded="true" signature="3834:3983" ph="..." />
+            <marker date="1499523380648" expanded="true" signature="4342:4525" ph="..." />
+            <marker date="1499523380648" expanded="true" signature="4369:4443" ph="..." />
+            <marker date="1499523380648" expanded="true" signature="4600:4628" ph="SELECT * FRO... users" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/twitter/views/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="20" column="33" lean-forward="false" selection-start-line="20" selection-start-column="33" selection-end-line="20" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/195.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/caly_kurs.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/twitter/style.css" />
+    <entry file="file://$PROJECT_DIR$/twitter/views/styles.css" />
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/superglobals/_superglobals.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="65" column="0" lean-forward="false" selection-start-line="65" selection-start-column="0" selection-end-line="65" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/mysqli/mysqli.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="1584" column="9" lean-forward="false" selection-start-line="1584" selection-start-column="9" selection-end-line="1584" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/195.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1694">
+          <caret line="121" column="14" lean-forward="false" selection-start-line="121" selection-start-column="14" selection-end-line="121" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/199.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2305">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jquery.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="1" column="735" lean-forward="false" selection-start-line="1" selection-start-column="735" selection-end-line="1" selection-end-column="735" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/twitter/views/footer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21">
+          <caret line="94" column="42" lean-forward="false" selection-start-line="94" selection-start-column="42" selection-end-line="94" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/twitter/views/home.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" column="34" lean-forward="false" selection-start-line="5" selection-start-column="34" selection-end-line="5" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/twitter/views/publicprofiles.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="4" column="6" lean-forward="false" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/twitter/views/search.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="20" column="4" lean-forward="false" selection-start-line="20" selection-start-column="4" selection-end-line="20" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/twitter/views/timeline.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" column="35" lean-forward="false" selection-start-line="5" selection-start-column="35" selection-end-line="5" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/twitter/views/yourtweets.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" column="32" lean-forward="false" selection-start-line="5" selection-start-column="32" selection-end-line="5" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/twitter/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="761">
+          <caret line="66" column="0" lean-forward="false" selection-start-line="66" selection-start-column="0" selection-end-line="66" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/twitter/views/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="483">
+          <caret line="31" column="41" lean-forward="false" selection-start-line="31" selection-start-column="41" selection-end-line="31" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/twitter/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="18" column="31" lean-forward="false" selection-start-line="18" selection-start-column="31" selection-end-line="18" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/twitter/functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="453">
+          <caret line="58" column="14" lean-forward="false" selection-start-line="58" selection-start-column="14" selection-end-line="58" selection-end-column="14" />
+          <folding>
+            <marker date="1499523380648" expanded="true" signature="1013:1056" ph="SELECT * FRO... isFollowing" />
+            <marker date="1499523380648" expanded="true" signature="1858:1944" ph="SELECT * FRO... users" />
+            <marker date="1499523380648" expanded="true" signature="2267:2342" ph="SELECT * FRO... tweets" />
+            <marker date="1499523380648" expanded="true" signature="2575:2670" ph="SELECT * FRO... users" />
+            <marker date="1499523380648" expanded="true" signature="3236:3419" ph="SELECT * FRO... isFollowing" />
+            <marker date="1499523380648" expanded="true" signature="3807:4062" ph="..." />
+            <marker date="1499523380648" expanded="true" signature="3834:3983" ph="..." />
+            <marker date="1499523380648" expanded="true" signature="4342:4525" ph="..." />
+            <marker date="1499523380648" expanded="true" signature="4369:4443" ph="..." />
+            <marker date="1499523380648" expanded="true" signature="4600:4628" ph="SELECT * FRO... users" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/twitter/actions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2116">
+          <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1499522760213" expanded="true" signature="530:631" ph="SELECT * FRO... users" />
+            <marker date="1499522760213" expanded="true" signature="810:982" ph="INSERT INTO users... " />
+            <marker date="1499522760213" expanded="true" signature="1120:1247" ph="UPDATE users... " />
+            <marker date="1499522760213" expanded="true" signature="1477:1578" ph="SELECT * FRO... users" />
+            <marker date="1499522760213" expanded="true" signature="2078:2263" ph="SELECT * FRO... isFollowing" />
+            <marker date="1499522760213" expanded="true" signature="2424:2519" ph="DELETE FROM " />
+            <marker date="1499522760213" expanded="true" signature="2586:2760" ph="INSERT INTO isFollowing... " />
+            <marker date="1499522760213" expanded="true" signature="3048:3240" ph="INSERT INTO tweets... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
